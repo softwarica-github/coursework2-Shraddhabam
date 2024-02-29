@@ -32,7 +32,7 @@ class TestEmailSending(unittest.TestCase):
     @patch('your_script_name.messagebox')
     def test_send_email_failure(self, mock_messagebox):
         root = Tk()
-        receiver_email = '220308@softwarica.edu.np'
+        receiver_email = 'sarushahi547@gmail.com'
         username = 'test_username'
         password = 'test_password'
 

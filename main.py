@@ -11,8 +11,8 @@ import subprocess
 # Your actual credentials and sensitive data should be stored securely
 SMTP_SERVER = 'smtp.office365.com'
 SMTP_PORT = 587
-SENDER_EMAIL = "220308@softwarica.edu.np"  # Your email address
-SENDER_PASSWORD = "@khemsara13"  # Your email password
+SENDER_EMAIL = "sarushahi547@gmail.com"  # Your email address
+SENDER_PASSWORD = "shahisaru13@!!"  # Your email password
 
  
 # Function to generate a random username
